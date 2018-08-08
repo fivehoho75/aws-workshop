@@ -27,11 +27,6 @@
 8. 드롭다운 리스트의 타켓 그룹을 선택한다.
 9. **저장** 을 클릭한다..
 10. 배포 그룹을 선택 후 **작업** 에서 **새 개정 배포** 를 클릭한다.
-/***이부분이 조금 달라진 것 같습니다. 현재 GitHub 계정을 인증해야만 되게 되어있습니다.**
-11. On **Repository** type select: `My application is stored in GitHub`.
-12. Repository Name: `tryolabs/aws-workshop`.
-13. Get the last commit id and past it in the **Commit ID** field.*/
-
 11. **레파지토리 유형** 유형 선택: `GitHub에 어플리케이션 저장`.
 12. GitHub 계정: `본인의 GitHub계정` 입력 후 **GitHub 연결** 클릭 후 연결을 한다.
 13. **레파지토리 이름** 필드에 및 **Commit ID** 필드 각각 레파지토리 이름과 마지막 commit id를 입력한다.
